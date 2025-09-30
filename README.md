@@ -20,12 +20,15 @@
   
 ---
 
+### 🕶 Personal
+- 🎓 CS Student at FCI Minya University  
+- 💻 Flutter Developer (Dart & OOP lover)  
+- 🏆 Competitive Programmer, preparing for ECPC  
+- 🚀 Currently working on Flutter apps with Firebase integration  
 
+---
 
 ### ✍️ Quote of the Day:
 > "Code never lies, comments sometimes do."
 
 ---
-
-### 🕶 Personal:
-I'm a student at **FCI Minya**, preparing for **ECPC** 🚀
