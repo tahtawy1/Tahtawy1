@@ -22,10 +22,9 @@
 ---
 
 ### 🕶 Personal
-- 🎓 CS Student at FCI Minya University  
-- 💻 Flutter Developer (Dart & OOP lover)  
-- 🏆 Competitive Programmer, preparing for ECPC  
-- 🚀 Currently working on Flutter apps with Firebase integration  
+- 🎓 CS Student at FCI Minya University
+- 💻 Software Engineer
+- 💻 Flutter Developer  
 
 ---
 
