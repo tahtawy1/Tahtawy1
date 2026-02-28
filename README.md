@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Taha+Sabry!;" />
 </div>
 
-
+## 👩‍💻 Flutter Developer | CS student
 # 💫 About Me:
 
 🎓 Computer Science student<br><br>📱 Flutter Developer (Dart • UI • OOP)<br><br>🧠 Passionate about solving real-world problems<br><br>🚀 Continuously learning and improving step by step<br><br>💡 Love creative ideas and writing clean code
