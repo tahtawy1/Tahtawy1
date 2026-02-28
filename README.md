@@ -76,7 +76,7 @@ I’m a passionate computer science student and Flutter developer who enjoys bui
 <a href="https://github.com/Tahtawy1?tab=followers"><img src="https://img.shields.io/github/followers/Tahtawy1?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <h3 align="center">
-     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Hit+me+up+on+LinkedIn!+Always+open+for+collabs.">
+     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+💙;+Hit+me+on+LinkedIn!+Open+for+collabs.">
 </h3>
 
 <br/>
