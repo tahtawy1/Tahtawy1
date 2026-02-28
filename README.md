@@ -23,10 +23,6 @@ I’m a passionate computer science student and Flutter developer who enjoys bui
 - Continuously learn and improve by building real projects
 
 <br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>  
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
@@ -49,8 +45,7 @@ I’m a passionate computer science student and Flutter developer who enjoys bui
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Stats:
   <a href="https://github.com/Tahtawy1/github-readme-stats">
-      <img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tahtawy&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&&bg_color=0D1117" /></a>      
-<a href="https://github.com/Tahtawy1/github-readme-stats"><img alt="Taha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahtawy1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      <img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tahtawy1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&&bg_color=0D1117" /></a>      
 <br>
 <p align="start">
     <a href="https://github.com/Tahtawy/github-readme-streak-stats">
@@ -84,7 +79,7 @@ I’m a passionate computer science student and Flutter developer who enjoys bui
 <a href="https://github.com/Tahtawy1?tab=followers"><img src="https://img.shields.io/github/followers/Tahtawy1?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Hit+me+up+on+LinkedIn!+Always+open+for+collabs.">
 </h3>
 
 <br/>
