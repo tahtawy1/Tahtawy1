@@ -1,6 +1,7 @@
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Taha+Sabry!+🤓;" />
+</div>
 
-<b>Hi there!<b> 👋
-I’m a passionate computer science student and Flutter developer who enjoys building clean UIs and solving problems. I’m always eager to learn new technologies and improve my skills through practice and real projects.<br><br>
 
 # 💫 About Me:
 
