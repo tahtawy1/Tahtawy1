@@ -1,36 +1,21 @@
-<h1 align="center">Hello, I'm Taha Sabry</h1>
-<h3 align="center">Flutter Developer & Competitive Programmer</h3>
+# 💫 About Me:
+🎓 Computer Science student<br><br>📱 Flutter Developer (Dart • UI • OOP)<br><br>🧠 Passionate about solving real-world problems<br><br>🚀 Continuously learning and improving step by step<br><br>💡 Love creative ideas and writing clean code
 
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/firebase/firebase-original.svg" width="50" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
-  &nbsp;&nbsp;&nbsp;
-  
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tahtawy01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tahtawy1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabrytaha854) 
 
-  
----
+# 💻 Tech Stack:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Tahtawy1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Tahtawy1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahtawy1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🕶 Personal
-- 🎓 CS Student at FCI Minya University
-- 💻 Software Engineer
-- 💻 Flutter Developer  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Tahtawy1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### ✍️ Quote of the Day:
-> "Code never lies, comments sometimes do."
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
