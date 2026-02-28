@@ -8,14 +8,12 @@
 🎓 Computer Science student<br><br>📱 Flutter Developer (Dart • UI • OOP)<br><br>🧠 Passionate about solving real-world problems<br><br>🚀 Continuously learning and improving step by step<br><br>💡 Love creative ideas and writing clean code
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tahtawy01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tahtawy1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabrytaha854) 
 
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px"> Skills & Tools
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,sentry,androidstudio,vscode,figma,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,figma,postman" /><br>
 </div>
 
 <br>
@@ -24,7 +22,10 @@
 </div>
 <br> 
 
-### ✍️ Random Dev Quote
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tahtawy01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tahtawy1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabrytaha854) 
+
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
