@@ -3,13 +3,13 @@
 </div>
 
 ## Flutter Developer | CS student
-<br><br>
+
 # 💫 About Me:
 
 🎓 Computer Science student<br><br>📱 Flutter Developer (Dart • UI • OOP)<br><br>🧠 Passionate about solving real-world problems<br><br>🚀 Continuously learning and improving step by step<br><br>💡 Love creative ideas and writing clean code
 <br>
 
-
+<br>
 ## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px"> Skills & Tools
 
 <div align="center">
