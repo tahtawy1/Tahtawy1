@@ -44,9 +44,7 @@ I’m a passionate computer science student and Flutter developer who enjoys bui
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Stats:
-  <a href="https://github.com/Tahtawy1/github-readme-stats">
-      <img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tahtawy1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&&bg_color=0D1117" /></a>      
-<br>
+
 <p align="start">
     <a href="https://github.com/Tahtawy/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Taha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tahtawy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
