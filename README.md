@@ -1,4 +1,8 @@
+
+
 # 💫 About Me:
+Hi there! 👋
+I’m a passionate computer science student and Flutter developer who enjoys building clean UIs and solving problems. I’m always eager to learn new technologies and improve my skills through practice and real projects.<br><br>
 🎓 Computer Science student<br><br>📱 Flutter Developer (Dart • UI • OOP)<br><br>🧠 Passionate about solving real-world problems<br><br>🚀 Continuously learning and improving step by step<br><br>💡 Love creative ideas and writing clean code
 
 
