@@ -43,9 +43,8 @@ I’m a passionate computer science student and Flutter developer who enjoys bui
 <br> 
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Stats:
 
-<p align="start">
+<p align="center">
     <a href="https://github.com/Tahtawy/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Taha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tahtawy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
