@@ -40,15 +40,6 @@ I’m a passionate computer science student and Flutter developer who enjoys bui
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-<br> 
-
-
-
-<p align="center">
-    <a href="https://github.com/Tahtawy1/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Taha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tahtawy1&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
 <br>
 <div align="center">
@@ -79,4 +70,7 @@ I’m a passionate computer science student and Flutter developer who enjoys bui
      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+💙;+Hit+me+on+LinkedIn!+Open+for+collabs.">
 </h3>
 
-<br/>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tahtawy1&theme=transparent&hide_border=true&border_radius=32&background=0D1117&ring=EB5F00&fire=EB5F00&currStreakLabel=EB5F00&currStreakNum=EBEBEB&sideLabels=EBEBEB&dates=5E5E5E&sideNums=EBEBEB" alt="GitHub Streak" /></a>
+</p>
+<br>
