@@ -6,7 +6,7 @@
 
 ##  Flutter Developer | CS Student
 
-I’m a passionate computer science student and Flutter developer who enjoys building clean UIs and solving problems. I’m always eager to learn new technologies and improve my skills through practice and real projects.
+Computer Science student and Flutter Developer passionate about mobile app development, clean architecture, and continuous learning. Building projects, improving my skills, and sharing my journey through Tahtawy Programming.
 
 <br>
 <div align="center">
