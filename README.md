@@ -43,9 +43,10 @@ Computer Science student and Flutter Developer passionate about mobile app devel
 
 
 
-## 📫 Let's Connect!
+## 📫 My socials
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tahtawy1/)
+- 📺 [Youtube](https://youtube.com/@tahtawy1)
 - 📧 sabrytaha854@gmail.com
 
 <br>
