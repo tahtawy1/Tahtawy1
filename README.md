@@ -3,8 +3,6 @@
 </div>
 
 <br>
-
-
 ##  Flutter Developer | CS Student
 
 Computer Science student and Flutter Developer passionate about mobile app development, clean architecture, and continuous learning. Building projects, improving my skills, and sharing my journey through Tahtawy Programming.
